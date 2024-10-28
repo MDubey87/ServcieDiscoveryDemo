@@ -9,4 +9,4 @@ This Solution has two projects-
 - Service.Discovery.Demo.Api - This API will act as a service that needs to be discovered by other applications.
 - Service.Discovery.Demo.Client - This will act as client which will discover the API.
 
-You can find the article on Service Discovery in my blog <a href="https://manish4dotnet.blogspot.com/2024/10/service-discovery-in-microservices-net-with-consul.html">Dot Net World</a>.
+Read the entire Blog Post here - <a href="https://manish4dotnet.blogspot.com/2024/10/service-discovery-in-microservices-net-with-consul.html">Service Discovery Pattern</a>.
